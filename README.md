@@ -3,6 +3,7 @@
 An end-to-end **Machine Learning application** that estimates the probability of loan default using a trained classification model. Built with **Python, Scikit-learn, and FastAPI**, the application provides an interactive web interface where users can submit applicant details and instantly view a risk assessment through an animated probability gauge.
 
 The application is deployed as a **single service on Render**, with FastAPI powering both the prediction API and the frontend.
+Live Demo: https://ml-project-credit-risk-analysis-loan.onrender.com
 
 ---
 
