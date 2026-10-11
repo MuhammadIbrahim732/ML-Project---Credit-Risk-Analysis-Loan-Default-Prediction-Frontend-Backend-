@@ -6,4 +6,4 @@ numpy
 joblib
 xgboost
 # Pin these to the versions used in training (the preprocessor and calibrators in pipeline_meta.pkl are scikit-learn objects)
-scikit-learn
+scikit-learn==1.6.1
